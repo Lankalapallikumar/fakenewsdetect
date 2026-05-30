@@ -27,6 +27,4 @@ The dataset used in this project contains labeled data for training and testing 
 5. Model Evaluation
 6. Prediction
 
-## Installation
 
-Clone the repository:
